@@ -169,6 +169,7 @@ h4{
 }
 
 /* Footer */
+
 .footer{
         position: fixed;
         left: 0;
@@ -208,9 +209,6 @@ h1{
         border: 0px solid red;
     }
 }
-
-
-
 
 .text1{
     width: 200px;
@@ -267,6 +265,8 @@ h1{
     box-shadow: 1px 1px 10px rgb(169, 169, 169);
 }
 
+/* რესპონსივი */
+
 @media screen and (max-width: 450px){
     .text1{
         width: 130px;
@@ -322,6 +322,8 @@ h1{
         border: 0px solid red;
     }
 }
+
+
 
 @media screen and (max-width: 360px){
     .content-container{
