@@ -209,9 +209,6 @@ h1{
     }
 }
 
-
-
-
 .text1{
     width: 200px;
     height: 40px;
@@ -306,6 +303,7 @@ h1{
     }
 }
 
+/* რესპონსივი */ 
 
 @media screen and (max-width: 800px){
     .content-container{
